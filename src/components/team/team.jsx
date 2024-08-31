@@ -88,10 +88,18 @@ export default function Team() {
           <div>
             <Link
               className="link"
-              href={"https://www.linkedin.com/in/bilal-ilyas-75480a222"}
+              href={"https://www.linkedin.com/in/bilalilyasjhandir"}
               target="_blank"
             >
               <BiLogoLinkedin size={20} />
+            </Link>
+            </Link>
+            <Link
+              className="link"
+              href={"https://github.com/bilalilyasjhandir"}
+              target="_blank"
+            >
+              <BiLogoGithub size={20} />
             </Link>
           </div>
         </div>
@@ -108,6 +116,13 @@ export default function Team() {
           <p className={classes.role}>Team Operations</p>
 
           <div>
+            <Link
+              className="link"
+              href={"https://www.linkedin.com/in/maham-fatima-22537429a/"}
+              target="_blank"
+            >
+              <BiLogoLinkedin size={20} />
+            </Link>
             <Link
               className="link"
               href={"https://github.com/maham5"}
