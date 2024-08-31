@@ -305,20 +305,6 @@ export default function Team() {
 
         <div>
           <Image
-            src={"/team/tayyab.webp"}
-            width={170}
-            height={170}
-            className={classes.img}
-          />
-          <p className={classes.name}>Tayyab Chaudhary</p>
-          <p className={classes.dept}>ENIGMATIX</p>
-          <p className={classes.role}>DevOps Lead</p>
-
-          <div></div>
-        </div>
-
-        <div>
-          <Image
             src={"/team/hamza.jpg"}
             width={170}
             height={170}
